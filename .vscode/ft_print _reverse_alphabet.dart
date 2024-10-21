@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main() {
   ft_print_reverse_alphabet();
-  print('');
+  print(' ');
 }
 
 void ft_print_reverse_alphabet() {
