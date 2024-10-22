@@ -1,16 +1,28 @@
 # Exercicios Dart
 
-## Exercicio 1
+## ft_print
     imprimir uma string ou caracter
 
-## Exercicio 2
+## ft_print_alphabet
     imprimir o alfabeto na mesma linha
 
-## Exercicio 3
+## ft_print_reverse_alphabet
     imprimir o alfabeto ao contrario na mesma linha
 
-## Exercicio 4
+## ft_print_numbers
     imprimir numeros de 0 a 9 na mesma linha
 
-## Exercicio 5 
-    ver se um numero é negativo ou positivo
+## ft_is_negative
+    verificsr se um numero é negativo ou positivo
+
+## ft_print_numbers_comb
+    combinação de 2 números inteiros
+
+## ft_print_numbers_comb2
+    combinação de 3 números inteiros
+
+## ft_print_is_par
+    verificar se o numero introduzido na consola é par ou impar
+
+## web
+    Programa simples para ver horas no browser.
